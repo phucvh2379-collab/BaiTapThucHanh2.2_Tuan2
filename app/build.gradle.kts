@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.baitapthuchanh2"
+    namespace = "com.example.baitap_tuan2"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.baitapthuchanh2"
+        applicationId = "com.example.baitap_tuan2"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
